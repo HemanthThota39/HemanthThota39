@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HemanthThota39
-- 👀 I’m interested in everything related to computers
-- 🌱 I’m currently learning building web applications
-- 💞️ I’m looking to collaborate on writing web applications and also solving problems using DS and Algo
+- 👀 Intrested in ML
 - 📫 You can reach me at hemant.thota@gmail.com
 
 <!---
